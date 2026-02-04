@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Magic Studio",
+  "description": "A powerful image editing tool powered by Gemini 2.5 Flash Image. Transform your photos with natural language prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
